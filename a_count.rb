@@ -9,12 +9,12 @@ def a_count(arr)
     result
 end
 
-puts 
-
-a_count(['asdf','poiuyt','ahhggf','ijhbvf','asd'])
 
 
+puts a_count(['asdf','poiuyt','ahhggf','ijhbvf','asd'])
 
 
-puts arr.find_all { |element|  ? element.include? == 'a' : false }
+
+
+# puts arr.find_all { |element|  ? element.include? == 'a' : false }
 
